@@ -14,6 +14,3 @@ Route::get('/contact', function () {
     return view('contact');
 });
 
-Route::get('/meet-the-team', function () {
-    return view('meet-the-team');
-});
